@@ -1,0 +1,8 @@
+#for macos
+.DS_Store
+
+#ignore extension config
+.vscode
+
+#java classes
+*.class
